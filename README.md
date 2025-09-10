@@ -29,13 +29,4 @@ Welcome to my GitHub profile! I’m passionate about exploring the world of tech
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=syukronfuadi\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syukronfuadi\&layout=compact\&theme=tokyonight)
-
----
-
 ✨ *“Keep exploring, keep building, and keep learning.”* ✨
